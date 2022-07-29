@@ -7,6 +7,8 @@ major in material science and engineering
 
 president of [PoolC](https://poolc.org/), programming club in Yonsei
 
+i'm working in game server programming and application server programming.
+
 ---
 start programming in 2021 september, **so i don't coding well;**
 

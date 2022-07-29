@@ -1,9 +1,9 @@
 # Youngmin, Jin
 ---
 
-attending university of Yonsei
+attending [university of Yonsei](https://www.yonsei.ac.kr/sc/)
 
-major in material science and engineering
+major in [material science and engineering](https://mse.yonsei.ac.kr/mse/index.do)
 
 president of [PoolC](https://poolc.org/), programming club in Yonsei
 

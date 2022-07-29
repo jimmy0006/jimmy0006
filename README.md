@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @jimmy0006
-- 👀 I’m interested in web, javascript
-- 🌱 I’m currently learning react.js, node.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : email, jin34la1774@naver.com
+# Youngmin, Jin
+---
+
+attending university of Yonsei
+
+major in material science and engineering
+
+president of [PoolC](www.poolc.org), programming club in Yonsei
+
+---
+start programming in 2021 september, **so i don't coding well;**
+
 
 <!---
 jimmy0006/jimmy0006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
-# Youngmin, Jin
-<image src="img/me.jpg" width="100">
+# Youngmin, Jin  <image src="img/me.jpg" width="200">
+
 
 ---
 

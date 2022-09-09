@@ -1,4 +1,4 @@
-# Youngmin, Jin
+# Youngmin, Jin <image src="img/me.png">
 ---
 
 attending [university of Yonsei](https://www.yonsei.ac.kr/sc/)

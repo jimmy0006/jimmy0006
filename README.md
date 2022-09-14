@@ -16,6 +16,7 @@
 >start programming in 2021 september, **so i don't coding well;**
 >
 >my blog is [HERE!](https://velog.io/@jimmy0006)
+>my github is [HERE!](https://github.com/jimmy0006/)
 
 
 <!---

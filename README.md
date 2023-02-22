@@ -6,7 +6,7 @@
 >
 >major in [material science and engineering](https://mse.yonsei.ac.kr/mse/index.do)
 >
->president of [PoolC](https://poolc.org/), programming club in Yonsei
+>president(2022.7~2022.12) of [PoolC](https://poolc.org/), programming club in Yonsei
 >
 >member of [GDSC](https://gdsc.community.dev/yonsei-university-sinchon-campus/)
 >
